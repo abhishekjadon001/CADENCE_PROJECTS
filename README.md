@@ -35,7 +35,7 @@ This repository is organized into folders for each containing the problem statem
 
 ### **What it contains**
 
-
+# [PROJECT 1 - NOT GATE](https://github.com/abhishekjadon001/CADENCE_PROJECTS/tree/main/NOT%20GATE)
 
 ### **contribution and Suggestions**
 
