@@ -37,6 +37,8 @@ This repository is organized into folders for each containing the problem statem
 
 # [PROJECT 1 - NOT GATE](https://github.com/abhishekjadon001/CADENCE_PROJECTS/tree/main/NOT%20GATE)
 
+# [PROJECT 2 - AND GATE](https://github.com/abhishekjadon001/CADENCE_PROJECTS/tree/main/AND%20GATE)
+
 ### **contribution and Suggestions**
 
 I am always looking to grow and improve. If you have any suggestions for topics, projects, or areas of focus that would help me in my journey, please feel free to open an issue or contribute to the repository. Your insights and feedback are invaluable.
